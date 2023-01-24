@@ -3,7 +3,7 @@ I'd like to thank cwt for giving me this chance to improve my coding skills, tha
 
 
 Here's the video demo.
-https://user-images.githubusercontent.com/78251233/214396065-0647308a-3e55-4a81-be71-b7c7b7dc1503.mp4
+[![Watch the video](https://user-images.githubusercontent.com/78251233/214396065-0647308a-3e55-4a81-be71-b7c7b7dc1503.mp4)]
 
 
 
